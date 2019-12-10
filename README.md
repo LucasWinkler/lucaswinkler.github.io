@@ -1,3 +1,7 @@
-### This is a test
+# About
 
-This is a test for github pages. If you would like to see my actual website you can visit it here: https://lucaswinkler.dev/
+Trying out GitHub Pages using a landing page template by Dinesh Pandiyan.
+
+## License
+
+MIT © Dinesh Pandiyan
